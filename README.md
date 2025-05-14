@@ -1,6 +1,3 @@
-Here’s the updated README.md file with deployment instructions, including details about setting up an environment variable for the RPC URL and deploying the script:
-
-```markdown
 # StreamDAO - Solidity Journey 🚀
 
 Welcome to **StreamDAO**, a project created as part of my Solidity learning journey. This repository showcases my exploration of smart contract development, testing, and deployment using Solidity, Foundry, and OpenZeppelin libraries.
@@ -226,5 +223,3 @@ Connect on Twitter: [@iEmekaa](https://x.com/iEmekaa)
    git commit -m "Add README with deployment instructions"
    git push origin main
    ```
-
-Let me know if you need further assistance! 🚀
